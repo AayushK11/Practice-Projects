@@ -1,4 +1,4 @@
-The Model predicts the output of the AND gate
+The Model predicts the output of the OR gate
 
 Model description:
 2 input nodes (Because of 2 input features)
