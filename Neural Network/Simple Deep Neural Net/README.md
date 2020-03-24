@@ -6,3 +6,4 @@ The reason for such a high percent of error is because the data size is really s
 
 Weights are randomized and Bias are initially set to 0. Dataset is pre-inputted. 
 The learning rate and number of times the model should learn are user-inputted.
+X and Y for predicting is user-inputted
