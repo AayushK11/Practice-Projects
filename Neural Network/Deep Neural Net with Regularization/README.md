@@ -14,7 +14,7 @@ Model description:
 
 1 output node (Because OR gate gives only 1 output)
 
-All the layers except the last use "relu" activation. The last layer uses "sigmoid" activation.
+All the layers except the last use "ReLU" activation. The last layer uses "sigmoid" activation.
 
 Error Percentage is comparatively less than the Model without Regularization.
 
