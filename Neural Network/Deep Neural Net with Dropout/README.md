@@ -18,4 +18,4 @@ All the layers except the last use "ReLU" activation. The last layer uses "sigmo
 
 Error Percentage is comparatively less than the Model without Regularization and with Regularization.
 
-Weights are randomized and Bias are initially set to 0. Dataset is pre-inputted. The learning rate and number of times the model should learn are user-inputted. Keep Probab is user-inputted.
+Weights are initially randomized using the He initialization and Bias are initially set to 0. Dataset is pre-inputted. The learning rate and number of times the model should learn are user-inputted. Keep Probab is user-inputted.
