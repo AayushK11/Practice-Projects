@@ -18,4 +18,4 @@ All the layers except the last use "ReLU" activation. The last layer uses "sigmo
 
 Accuracy is near perfect.
 
-Weights are initially randomized and Bias are initially set to 0. Dataset is pre-inputted. The learning rate and epochs the model should learn are user-inputted. Dataset is divided into mini-batches of size 1. Momentum Optimization is used.
+Weights are initially randomized and Bias are initially set to 0. Dataset is pre-inputted. The learning rate and epochs the model should learn are pre-inputted. Dataset is divided into mini-batches of size 1. Momentum Optimization is used.
