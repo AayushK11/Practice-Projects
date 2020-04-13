@@ -16,13 +16,13 @@ Conv Layer3 - 32 filters, 3x3 filter size, Stride of 1 and Same Padding
 
 Conv Layer4 - 32 filters, 3x3 filter size, Stride of 1 and Same Padding
 
-Max Pool Layer4 - Pool Size of 2x2 and Stride of 2
+Max Pool Layer2 - Pool Size of 2x2 and Stride of 2
 
-Conv Layer4 - 64 filters, 3x3 filter size, Stride of 1 and Same Padding 
+Conv Layer5 - 64 filters, 3x3 filter size, Stride of 1 and Same Padding 
 
-Conv Layer5 - 64 filters, 3x3 filter size, Stride of 1 and Same Padding
+Conv Layer6 - 64 filters, 3x3 filter size, Stride of 1 and Same Padding
 
-Max Pool Layer5 - Pool Size of 2x2 and Stride of 2
+Max Pool Layer3 - Pool Size of 2x2 and Stride of 2
 
 Fully Connected Layer 1 - 500 Nodes, Relu activation
 
