@@ -45,3 +45,5 @@ Max Pool Layer3 - Pool Size of 2x2 and Stride of 2
 Fully Connected Layer 1 - 500 Nodes, Relu activation
 
 Fully Connected Layer 2 - 250 Nodes, Relu activation.
+
+Fully Connected layer 3 - 10 Nodes, Softmax activation.
