@@ -1,7 +1,25 @@
 The program identifies the handwritten digit with close to 99% accuracy.
 
 
+
 Dataset Used - Mnist imported from Keras
+
+
+
+Optimizer used - Adam
+
+
+
+Epochs - 20
+
+
+
+Batch Size - 250
+
+
+
+Accuracy - 99%
+
 
 
 Architecture - 
@@ -27,12 +45,3 @@ Max Pool Layer3 - Pool Size of 2x2 and Stride of 2
 Fully Connected Layer 1 - 500 Nodes, Relu activation
 
 Fully Connected Layer 2 - 250 Nodes, Relu activation.
-
-
-Optimizer used - Adam
-
-Epochs - 20
-
-Batch Size - 250
-
-Accuracy - 99%
